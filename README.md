@@ -1,5 +1,16 @@
-### Hi there 👋
-🌱 I’m currently learning Swift for iOS Development.
+## Minju Seo 👩🏻‍💻 👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEOMINJUUU)](https://hits.seeyoufarm.com)
+
+### ⚡  Interests 
+- iOS Application Developing
+- Swift
+- SwiftUI
+
+![Minju's github stats](https://github-readme-stats.vercel.app/api?username=SEOMINJUUU&show_icons=true) 
+
+
+
 <!--
 **SEOMINJUUU/SEOMINJUUU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
