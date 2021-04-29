@@ -5,7 +5,7 @@
 
 
 ### ⚡  Interests 
-- iOS Application Developing
+- iOS Application Development
 - Swift
 - SwiftUI
 
